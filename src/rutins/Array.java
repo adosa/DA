@@ -4,7 +4,7 @@ import java.util.*;
 public class Array extends ArrayList<Object>{
 
 	/**
-	 wwww* tettte errereeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeww
+	 wwww* tettte qqqerrereeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeww
 	 */
 	private static final long serialVersionUID = -8247609693940340936L;
 	public Array bAdd(Object o){
